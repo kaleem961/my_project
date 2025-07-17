@@ -1,3 +1,3 @@
-print("this is my code v1")
+prnt("this is my code v1")
 print("he is good")
-print(" he is also a student")
+prin(" he is also a student)
